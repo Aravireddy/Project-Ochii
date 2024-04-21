@@ -1,0 +1,11 @@
+@font-face {
+    font-family: f1;
+    src: url(/src/fonts/FoundersGrotesk-Semibold.ttf);
+}
+@font-face {
+    font-family: f2;
+    src: url(/src/fonts/NeueMontreal-Regular.ttf);
+}
+.herotext{
+    font-family: 'f1';
+}

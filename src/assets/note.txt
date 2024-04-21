@@ -1,0 +1,11 @@
+tillwind install
+
+nabar
+landing page
+marquee page
+about page
+playful
+cards 4
+reviews
+ready to start 
+footer

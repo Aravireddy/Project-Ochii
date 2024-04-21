@@ -1,0 +1,11 @@
+@font-face {
+    font-family: f1;
+    src: url(fonts/FoundersGrotesk-Semibold\ \(1\)\ \(1\).ttf);
+}
+@font-face {
+    font-family: f2;
+    src: url(fonts/NeueMontreal-Regular\ \(1\)\ \(1\).ttf);
+}
+.he{
+    font-family: 'f2';
+}
